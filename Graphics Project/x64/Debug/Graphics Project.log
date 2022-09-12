@@ -1,0 +1,304 @@
+﻿  Box.cpp
+  CannonsTower.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(49): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\cannonstower.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\cannonstower.cpp(50): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\cannonstower.cpp(60): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\cannonstower.cpp(74): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\cannonstower.cpp(78): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  CastProjectile.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(49): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\castprojectile.cpp(42): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\castprojectile.cpp(54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\castprojectile.cpp(56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  CastlePart.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\castlepart.cpp(6): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Enemy.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(49): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.cpp(13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.cpp(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.cpp(26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.cpp(92): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.cpp(93): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.cpp(152): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Landscape.cpp
+  MagicsTower.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  MovingProjectile.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\movingprojectile.cpp(8): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\movingprojectile.cpp(16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Object.cpp
+  ProjectileBase.cpp
+  Renderer.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\camera.h(93): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(49): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(140): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(141): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(212): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(216): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(293): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(294): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(758): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(776): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(777): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(778): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(779): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(780): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(781): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(782): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(783): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(784): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(785): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(786): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(787): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(788): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(789): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(790): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(792): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(793): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(794): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(795): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(805): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(806): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(807): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(808): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(809): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(810): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(811): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(812): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(813): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(814): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(815): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(816): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(817): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1049): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1140): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1202): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1273): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1326): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1341): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1368): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1369): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1379): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1390): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1391): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1401): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1416): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\renderer.cpp(1417): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Sea.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\sea.cpp(9): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Spawner.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\enemy.h(49): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\downloads\ergastirio opengl\graphics project\graphics project\spawner.cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\spawner.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\spawner.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\spawner.cpp(45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  TowerBase.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\towerbase.cpp(13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\downloads\ergastirio opengl\graphics project\graphics project\towerbase.cpp(41): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  Tree.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\tree.cpp(6): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+e:\downloads\ergastirio opengl\graphics project\graphics project\camera.h(93): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
+e:\downloads\ergastirio opengl\graphics project\graphics project\object.cpp(17): warning C4172: returning address of local variable or temporary: empty
+  Graphics Project.vcxproj -> E:\Downloads\Ergastirio OpenGL\Graphics Project\x64\Debug\Graphics Project.exe
+  Copying DLLs to output folder..
+  copy "E:\Downloads\Ergastirio OpenGL\Graphics Project\3rdParty\bin\x64\*.dll" "E:\Downloads\Ergastirio OpenGL\Graphics Project\x64\Debug\"
+  E:\Downloads\Ergastirio OpenGL\Graphics Project\3rdParty\bin\x64\glew32.dll
+  E:\Downloads\Ergastirio OpenGL\Graphics Project\3rdParty\bin\x64\libjpeg-9.dll
+  E:\Downloads\Ergastirio OpenGL\Graphics Project\3rdParty\bin\x64\libpng16-16.dll
+  E:\Downloads\Ergastirio OpenGL\Graphics Project\3rdParty\bin\x64\libtiff-5.dll
+  E:\Downloads\Ergastirio OpenGL\Graphics Project\3rdParty\bin\x64\libwebp-4.dll
+  E:\Downloads\Ergastirio OpenGL\Graphics Project\3rdParty\bin\x64\SDL2.dll
+  E:\Downloads\Ergastirio OpenGL\Graphics Project\3rdParty\bin\x64\SDL2_image.dll
+  E:\Downloads\Ergastirio OpenGL\Graphics Project\3rdParty\bin\x64\zlib1.dll
+          8 file(s) copied.

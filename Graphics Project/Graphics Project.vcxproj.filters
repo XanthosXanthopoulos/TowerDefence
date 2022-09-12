@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Lights">
+      <UniqueIdentifier>{4c140e51-9fd9-466b-9b8d-e9472310275a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cameras">
+      <UniqueIdentifier>{4893d0f2-f3c8-44e6-91f4-97350b64b0f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utilities">
+      <UniqueIdentifier>{8d418f43-1d1b-4e01-b034-99c21f9c25fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Text">
+      <UniqueIdentifier>{f6ce930e-b806-43bc-9ab5-3a1db28f5dd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor">
+      <UniqueIdentifier>{56926702-0546-4e38-aa07-91acdd4b4274}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Header">
+      <UniqueIdentifier>{c4499fbf-e939-4c06-b364-65a0a483a33c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Source">
+      <UniqueIdentifier>{99fcf65c-1f6f-4688-84b8-47d0782d99cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Header\Interfaces">
+      <UniqueIdentifier>{79d4d8f9-4cc6-4485-a0d0-d632cae3a11f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Header\Base">
+      <UniqueIdentifier>{917c1324-c3b1-4e2d-b343-602a0980b529}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Header\Projectiles">
+      <UniqueIdentifier>{74b63409-9a98-4670-b396-b25a6ec5a7a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Source\Base">
+      <UniqueIdentifier>{b5c934c8-43e8-4839-9d33-15c20090f7a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Header\Towers">
+      <UniqueIdentifier>{f297ddd7-7ec1-4746-934a-0ec3ad93be8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Header\Utilities">
+      <UniqueIdentifier>{93e80847-efa5-4be6-91af-2e3e805619e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Header\Enemies">
+      <UniqueIdentifier>{e6364998-d217-4c1a-bdc1-6e6bc904c6cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Source\Enemies">
+      <UniqueIdentifier>{be7f7a39-e962-4f3c-9cc1-5d06c0581b50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Header\Map">
+      <UniqueIdentifier>{5a474fa2-416d-417b-933e-0f240c5653b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Source\Map">
+      <UniqueIdentifier>{2d2e7e97-a2dd-4cbc-b385-cf5ff2f4fb8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Source\Projectiles">
+      <UniqueIdentifier>{d568cae0-d880-49f3-b3f0-4022bc4c0eda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Header\Castle">
+      <UniqueIdentifier>{85f88548-876e-4373-a5d9-f2b07ea9f934}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Source\Castle">
+      <UniqueIdentifier>{f0229f26-11d8-4a93-ba08-25fcb9fb18c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Refactor\Source\Towers">
+      <UniqueIdentifier>{714f4bc9-b2df-46b6-aecf-254e9488952a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeometryNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OBJLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeometricMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectionalLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spotlight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Transformation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectLibrary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spawner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Skybox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BoundingSphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Word.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StatusBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Refactor\Source\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="TowerBase.cpp">
+      <Filter>Refactor\Source\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectileBase.cpp">
+      <Filter>Refactor\Source\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Refactor\Source\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Landscape.cpp">
+      <Filter>Refactor\Source\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="MovingProjectile.cpp">
+      <Filter>Refactor\Source\Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="CastProjectile.cpp">
+      <Filter>Refactor\Source\Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Sea.cpp">
+      <Filter>Refactor\Source\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree.cpp">
+      <Filter>Refactor\Source\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="CastlePart.cpp">
+      <Filter>Refactor\Source\Castle</Filter>
+    </ClCompile>
+    <ClCompile Include="CannonsTower.cpp">
+      <Filter>Refactor\Source\Towers</Filter>
+    </ClCompile>
+    <ClCompile Include="Box.cpp">
+      <Filter>Refactor\Source\Castle</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicsTower.cpp">
+      <Filter>Refactor\Source\Towers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TileType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectionalLight.h">
+      <Filter>Header Files\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLight.h">
+      <Filter>Header Files\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Header Files\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="LightType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Transformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Spawner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Skybox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BoundingSphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files\Cameras</Filter>
+    </ClInclude>
+    <ClInclude Include="OBJLoader.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectLibrary.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderProgram.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="GeometricMesh.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="GeometryNode.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Header Files\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>Header Files\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Header Files\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>Header Files\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="Word.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StatusBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRenderable.h">
+      <Filter>Refactor\Header\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ICollidable.h">
+      <Filter>Refactor\Header\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Refactor\Header\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="TowerBase.h">
+      <Filter>Refactor\Header\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="ProjectileBase.h">
+      <Filter>Refactor\Header\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="MovingProjectile.h">
+      <Filter>Refactor\Header\Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="IUpdateable.h">
+      <Filter>Refactor\Header\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="Tag.h">
+      <Filter>Refactor\Header\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Refactor\Header\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Landscape.h">
+      <Filter>Refactor\Header\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="LandscapeState.h">
+      <Filter>Refactor\Header\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="CastProjectile.h">
+      <Filter>Refactor\Header\Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Sea.h">
+      <Filter>Refactor\Header\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree.h">
+      <Filter>Refactor\Header\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="CastlePart.h">
+      <Filter>Refactor\Header\Castle</Filter>
+    </ClInclude>
+    <ClInclude Include="CannonsTower.h">
+      <Filter>Refactor\Header\Towers</Filter>
+    </ClInclude>
+    <ClInclude Include="Spotlight.h">
+      <Filter>Header Files\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="Box.h">
+      <Filter>Refactor\Header\Castle</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicsTower.h">
+      <Filter>Refactor\Header\Towers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
